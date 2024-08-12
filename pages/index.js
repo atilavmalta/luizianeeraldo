@@ -55,7 +55,7 @@ const HomePage = () => {
         madrinha: {name: 'Madrinha Maria, Padrinho José Manoel e 1 acompanhante'},
         gracilene: {name: 'Tia Gracilene e Tio Divalcilo'},
         renato: {name: 'Renato e Julia'},
-        gustavo: {name: 'Gustavo Prazinho e Esposa'},
+        gustavo: {name: 'Gustavo Prazinho e Nathalia'},
         rosa: {name: 'Rosa e Simone'},
         mike: {name: 'Mike Fryer e Samyla'},
         valeria: {name: 'Valéria'},
