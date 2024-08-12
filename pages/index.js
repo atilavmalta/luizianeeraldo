@@ -36,6 +36,7 @@ const HomePage = () => {
         ivana: {name: 'Ivana, Ravi e Liz'},
         fernanda: {name: 'Fernanda'},
         mariana: {name: 'Mariana'},
+        marianna: {name: 'Marianna'},
         carol: {name: 'Carol'},
         marcia: {name: 'Márcia'},
         andrea: {name: 'Andréa'},
