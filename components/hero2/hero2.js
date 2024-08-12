@@ -36,7 +36,9 @@ const Hero2 = (props) => {
                                     </div>
                                     <div className="slide-text">
                                         <Slide direction="up" duration="1400" triggerOnce="true">
-                                        <p><b>{props.invited.name}</b></p>
+                                            <br></br>
+                                            <p>Convidam</p>
+                                            <h3><b>{props.invited.name}</b></h3>
                                             <br></br>
                                             <p>Venha celebrar conosco esse dia especial</p>
                                             <br></br>

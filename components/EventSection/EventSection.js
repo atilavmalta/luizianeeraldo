@@ -10,7 +10,7 @@ const Events = [
     {
         Simg: sImg1,
         title: 'Capela do hotel campestre de Aldeia',
-        li1: '20/10/2024, Domingo 22:00',
+        li1: '20/10/2024, Domingo 10:00',
         li2: 'R. José Severino de Barros, 465, km 13, Aldeia, Camaragibe',
         animation:'1200',
     }

@@ -21,7 +21,7 @@ const HomePage = () => {
 
     const invList = 
     {
-        mainha: {name: 'Mainha'},
+        mainha: {name: 'Joseane'},
         filho: {name: 'Filho Amado Rafael'},
         wellington: {name: 'Wellington e Gláucia'},
         leyla: {name: 'Leyla, Edson e Luiza'},
@@ -45,7 +45,7 @@ const HomePage = () => {
         marilene: {name: 'Tia Marilene'},
         fie: {name: 'Tio Fie'},
         janete: {name: 'Tia Janete'},
-        mae: {name: 'Mãe'},
+        mae: {name: 'Maria Anunciada'},
         andreza: {name: 'Andreza'},
         aldiceia: {name: 'Aldiceia'},
         aline: {name: 'Aline e Cleiton'},
