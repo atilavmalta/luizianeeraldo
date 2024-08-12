@@ -24,6 +24,7 @@ const HomePage = () => {
         mainha: {name: 'Mainha'},
         filho: {name: 'Filho Amado Rafael'},
         wellington: {name: 'Wellington e Gláucia'},
+        leyla: {name: 'Leyla, Edson e Luiza'},
         leylanne: {name: 'Leylanne, Fernando Filho e Fernando Neto'},
         franciana: {name: 'Franciana, Wilson e Pietro'},
         carlos: {name: 'Carlos Wilson, Maria Eduarda e Luiz Carlos'},

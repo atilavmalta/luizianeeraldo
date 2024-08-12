@@ -35,63 +35,63 @@ const ServiceSectionS2 = (props) => {
             img: s3,
             title: 'Lanches românticos',
             value: 'R$ 100,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406100.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510ht1jqnF2W86304AA2C',
             qrcode: qr1
         },
         {
             img: s2,
             title: 'Voucher gasolina',
             value: 'R$ 200,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406200.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510tOgs58KedD630423B1',
             qrcode: qr2
         },
         {
             img: s1,
             title: 'Almoço dos noivos',
             value: 'R$ 250,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406250.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO621405107ali9mjSV0630402AC',
             qrcode: qr3
         },
         {
             img: s4,
             title: 'Jantar para os noivos famintos',
             value: 'R$ 300,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406300.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510vmLGZKblnK63043C59',
             qrcode: qr4
         },
         {
             img: s5,
             title: 'Passeio de quadriciclo pelo litoral',
             value: 'R$ 350,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406350.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO621405109UEOjSQX1e6304BA08',
             qrcode: qr5
         },
         {
             img: s6,
             title: 'Passeio de bugg pelo litoral',
             value: 'R$ 400,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406400.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510ocNrER8dNe630470A4',
             qrcode: qr6
         },
         {
             img: s7,
             title: 'Passeio de barco pelo Rio Sao Francisco (casal)',
             value: 'R$ 450,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406450.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510mjExPkFcuS6304A1D4',
             qrcode: qr7
         },
         {
             img: s8,
             title: 'Diaria em pousada',
             value: 'R$ 500,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406500.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510l1Bmvf2Bh3630458E3',
             qrcode: qr8
         },
         {
             img: s9,
             title: 'Diária hotel',
             value: 'R$ 600,00',
-            code: 'INVALIDO',
+            code: '00020126360014BR.GOV.BCB.PIX0114+55819961035205204000053039865406600.005802BR5925Luiziane de Souza Vasconc6009SAO PAULO62140510n80ooXiEKw6304A0B0',
             qrcode: qr9
         }
     ];
