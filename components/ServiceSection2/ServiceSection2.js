@@ -101,6 +101,12 @@ const ServiceSectionS2 = (props) => {
         <section className="wpo-service-section-s2 section-padding p-120" id="Service">
             <div className="container-fluid">
                 <SectionTitle subTitle={'Lista de presentes'} MainTitle={'Sintam-se à vontade quanto a isso'} s2Class={'wpo-section-title-s2'}/>
+                <p>
+                    Querida ( o) convidada ( o), sua presença é o nosso maior presente! No entanto, caso tenha a intenção de nos presentear, segue umas dicas de presentes que vamos amar ganhar!
+                </p>
+                <p>
+                    Nossa lua de mel será uma aventura de carro para o Rio São Francisco ( Piranhas - Xingó) e praias do  litoral alagoano ( São Miguel dos Milagres - Patacho- Japaratinga)
+                </p>
                 <div className="wpo-service-wrap">
                     <div className="row">
                         {lista.map((item) => (
