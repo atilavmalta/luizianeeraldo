@@ -62,6 +62,7 @@ const HomePage = () => {
         Edvania: {name: 'Edvania'},
         toinho: {name: 'Toinho e Lurdinha'},
         natalia: {name: 'Natália'},
+        rosasimone: {name: 'Rosa e Simone'}
     }
 
     if(searchParams.get('invite') in invList)
